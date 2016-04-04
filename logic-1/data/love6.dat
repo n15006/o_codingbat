@@ -19,4 +19,3 @@ love6(0, 9) → False
 love6(8, 3) → False
 love6(3, 3) → True
 love6(3, 4) → False
-other tests

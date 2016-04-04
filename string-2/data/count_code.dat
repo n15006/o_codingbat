@@ -13,4 +13,3 @@ count_code('') → 0
 count_code('AAcodeBBcoleCCccoreDD') → 3
 count_code('AAcodeBBcoleCCccorfDD') → 2
 count_code('coAcodeBcoleccoreDD') → 3
-other tests

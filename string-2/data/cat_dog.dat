@@ -12,4 +12,3 @@ cat_dog('cat') → False
 cat_dog('ca') → True
 cat_dog('c') → True
 cat_dog('') → True
-other tests

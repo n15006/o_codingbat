@@ -11,4 +11,3 @@ in1to10(1, True) → True
 in1to10(0, False) → False
 in1to10(0, True) → True
 in1to10(-1, False) → False
-other tests

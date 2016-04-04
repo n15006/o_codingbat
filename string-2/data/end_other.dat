@@ -13,4 +13,3 @@ end_other('12', '12') → True
 end_other('abcXYZ', 'abcDEF') → False
 end_other('ab', 'ab12') → False
 end_other('ab', '12ab') → True
-other tests

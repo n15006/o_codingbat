@@ -10,4 +10,3 @@ cigar_party(40, False) → True
 cigar_party(39, False) → False
 cigar_party(40, True) → True
 cigar_party(39, True) → False
-other tests

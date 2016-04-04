@@ -8,4 +8,3 @@ has23([3, 3]) → True
 has23([7, 7]) → False
 has23([3, 9]) → True
 has23([9, 5]) → False
-other tests

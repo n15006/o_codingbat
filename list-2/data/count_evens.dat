@@ -7,4 +7,3 @@ count_evens([11, 9, 0, 1]) → 1
 count_evens([2, 11, 9, 0]) → 2
 count_evens([2]) → 1
 count_evens([2, 5, 12]) → 2
-other tests

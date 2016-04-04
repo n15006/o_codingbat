@@ -8,4 +8,3 @@ alarm_clock(6, True) → 'off'
 alarm_clock(1, True) → '10:00'
 alarm_clock(3, True) → '10:00'
 alarm_clock(5, True) → '10:00'
-other tests

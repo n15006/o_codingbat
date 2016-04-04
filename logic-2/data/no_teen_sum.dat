@@ -15,4 +15,3 @@ no_teen_sum(15, 19, 16) → 31
 no_teen_sum(5, 17, 18) → 5
 no_teen_sum(17, 18, 16) → 16
 no_teen_sum(17, 19, 18) → 0
-other tests

@@ -13,4 +13,3 @@ xyz_there('.xyz') → False
 xyz_there('12.xyz') → False
 xyz_there('12xyz') → True
 xyz_there('1.xyz.xyz2.xyz') → False
-other tests

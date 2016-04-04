@@ -8,4 +8,3 @@ double_char('') → ''
 double_char('a') → 'aa'
 double_char('.') → '..'
 double_char('aa') → 'aaaa'
-other tests

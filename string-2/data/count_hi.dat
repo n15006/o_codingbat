@@ -8,4 +8,3 @@ count_hi('h') → 0
 count_hi('hi') → 1
 count_hi('Hi is no HI on ahI') → 0
 count_hi('hiho not HOHIhi') → 2
-other tests

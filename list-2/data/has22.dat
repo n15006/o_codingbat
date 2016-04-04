@@ -13,4 +13,3 @@ has22([2]) → False
 has22([]) → False
 has22([3, 3, 2, 2]) → True
 has22([5, 2, 5, 2]) → False
-other tests

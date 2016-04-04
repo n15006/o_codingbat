@@ -7,4 +7,3 @@ without_end('ab') → ''
 without_end('Chocolate!') → 'hocolate'
 without_end('kitten') → 'itte'
 without_end('woohoo') → 'ooho'
-other tests

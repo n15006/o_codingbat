@@ -8,4 +8,3 @@ lone_sum(2, 9, 2) → 9
 lone_sum(2, 9, 3) → 14
 lone_sum(4, 2, 3) → 9
 lone_sum(1, 3, 1) → 3
-other tests

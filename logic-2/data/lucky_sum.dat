@@ -11,4 +11,3 @@ lucky_sum(9, 4, 13) → 13
 lucky_sum(8, 13, 2) → 8
 lucky_sum(7, 2, 1) → 10
 lucky_sum(3, 3, 13) → 6
-other tests

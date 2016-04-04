@@ -8,4 +8,3 @@ same_first_last([1, 2, 3, 4, 5, 1]) → True
 same_first_last([1, 2, 3, 4, 5, 13]) → False
 same_first_last([13, 2, 3, 4, 5, 13]) → True
 same_first_last([7, 7]) → True
-other tests

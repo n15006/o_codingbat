@@ -6,4 +6,3 @@ make_tags('address', 'here') → '<address>here</address>'
 make_tags('body', 'Heart') → '<body>Heart</body>'
 make_tags('i', 'i') → '<i>i</i>'
 make_tags('i', '') → '<i></i>'
-other tests

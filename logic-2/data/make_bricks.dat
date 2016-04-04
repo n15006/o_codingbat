@@ -28,4 +28,3 @@ make_bricks(20, 0, 19) → True
 make_bricks(20, 0, 21) → False
 make_bricks(20, 4, 51) → False
 make_bricks(20, 4, 39) → True
-other tests

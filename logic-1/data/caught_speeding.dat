@@ -11,4 +11,3 @@ caught_speeding(75, True) → 1
 caught_speeding(40, False) → 0
 caught_speeding(40, True) → 0
 caught_speeding(90, False) → 2
-other tests

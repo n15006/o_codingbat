@@ -11,4 +11,3 @@ date_fashion(2, 2) → 0
 date_fashion(3, 7) → 1
 date_fashion(2, 7) → 0
 date_fashion(6, 2) → 0
-other tests

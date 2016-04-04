@@ -8,4 +8,3 @@ sorta_sum(4, 5) → 9
 sorta_sum(4, 6) → 20
 sorta_sum(14, 7) → 21
 sorta_sum(14, 6) → 20
-other tests

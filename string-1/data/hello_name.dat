@@ -9,4 +9,3 @@ hello_name('Goodbye') → 'Hello Goodbye!'
 hello_name('ho ho ho') → 'Hello ho ho ho!'
 hello_name('xyz!') → 'Hello xyz!!'
 hello_name('Hello') → 'Hello Hello!'
-other tests

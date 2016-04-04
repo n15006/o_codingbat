@@ -12,4 +12,3 @@ squirrel_play(105, True) → False
 squirrel_play(59, False) → False
 squirrel_play(59, True) → False
 squirrel_play(60, False) → True
-other tests

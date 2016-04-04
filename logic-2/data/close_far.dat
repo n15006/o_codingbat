@@ -11,4 +11,3 @@ close_far(10, 8, 9) → False
 close_far(8, 9, 10) → False
 close_far(8, 9, 7) → False
 close_far(8, 6, 9) → True
-other tests

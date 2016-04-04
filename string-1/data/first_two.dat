@@ -7,4 +7,3 @@ first_two('') → ''
 first_two('Kitten') → 'Ki'
 first_two('hi') → 'hi'
 first_two('hiya') → 'hi'
-other tests
